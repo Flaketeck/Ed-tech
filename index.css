@@ -9,3 +9,12 @@
 .card-hero img{
     height: 150px;
 }
+.icon{
+    font-size: 30px;
+    padding: auto;
+    padding-top: 20px;
+}
+.icon a{
+    text-decoration: none;
+    color: aliceblue;
+}
