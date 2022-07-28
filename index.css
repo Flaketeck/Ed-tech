@@ -2,3 +2,10 @@
     height: 650px;
     border-radius: 5px;
 }
+.card-hero{
+    border: 1px solid rgb(174, 165, 165);
+    border-radius: 5px;
+}
+.card-hero img{
+    height: 150px;
+}
